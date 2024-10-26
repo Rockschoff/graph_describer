@@ -1,0 +1,6 @@
+pymongo
+openai
+streamlit
+pandas
+altair
+json
