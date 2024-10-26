@@ -3,3 +3,4 @@ openai
 streamlit
 pandas
 altair
+vl-convert-python
